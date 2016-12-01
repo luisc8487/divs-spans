@@ -29,7 +29,7 @@ code {
 .wrapper {
     width: 1000px;
     margin: 0 auto;
-    background-color: #e9e9e9;
+    background-color: #8BE8B7;
     top: -1px;
     padding-top: 0px;
     position: absolute;
@@ -45,7 +45,7 @@ code {
 }
 
 .differences {
-    background-color: #FFD8D8;
+    background-color: #A5FFB6;
     padding: 50px;
 }
 
